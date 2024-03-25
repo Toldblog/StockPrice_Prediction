@@ -22,4 +22,4 @@ This project provides valuable insights for investors and financial analysts by 
 
 ## Code and Documentation
 
-For the full project code and documentation, please visit [the GitHub repository](link-to-github-repo).
+For the full project code and documentation, please visit [the GitHub repository](https://github.com/Toldblog/StockPrice_Prediction).
